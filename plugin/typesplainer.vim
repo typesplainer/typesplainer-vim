@@ -1,1 +1,2 @@
-nnoremap <buffer> <localleader>tps :call typesplainer#ExecuteTypesplainer()<cr>
+command typesplainer :call typesplainer#ExecuteTypesplainer()
+command tps :typesplainer
