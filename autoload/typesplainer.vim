@@ -1,4 +1,4 @@
 function typesplainer#ExecuteTypesplainer()
     silent !clear
-    execute "!python -m typesplainer % --json"
+    execute "!python -m typesplainer %"
 endfunction
