@@ -1,2 +1,2 @@
-command typesplainer :call typesplainer#ExecuteTypesplainer()
-command tps :typesplainer
+command Typesplainer :call typesplainer#ExecuteTypesplainer()
+command Tps :typesplainer
