@@ -47,10 +47,10 @@ python -m pip install typesplainer
 ### [vim-plug](https://github.com/junegunn/vim-plug)
 
 ```vimscript
-Plug 'typesplainer/vim-typesplainer'
+Plug 'typesplainer/typesplainer-vim'
 ```
 
 ## Misc
 
-typesplainer-vim is created and maintained by [KrazyKirby99999](https://github.com/KrazyKirby99999)
+typesplainer-vim is created and maintained by [KrazyKirby99999](https://github.com/KrazyKirby99999)\
 Thank you to wasi-master for creating typesplainer.
