@@ -1,4 +1,4 @@
-# vim-typesplainer
+# typesplainer-vim
 
 A Vim plugin for the Python tool [typesplainer](https://github.com/wasi-master/typesplainer).
 
@@ -47,9 +47,10 @@ python -m pip install typesplainer
 ### [vim-plug](https://github.com/junegunn/vim-plug)
 
 ```vimscript
-Plug 'KrazyKirby99999/vim-typesplainer'
+Plug 'typesplainer/vim-typesplainer'
 ```
 
 ## Misc
 
+typesplainer-vim is created and maintained by [KrazyKirby99999](https://github.com/KrazyKirby99999)
 Thank you to wasi-master for creating typesplainer.
